@@ -1,6 +1,6 @@
 <?php
 
-namespace {{vendor}}\{{package}}\components;
+namespace gulistanergun\todo\components;
 
 use Yii;
 use yii\base\BaseObject;
